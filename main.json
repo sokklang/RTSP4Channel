@@ -1,0 +1,33 @@
+
+  {
+    "channels": [
+      {
+        "username": "",
+        "password": "",
+        "xvr_ip": "",
+        "channel": 1,
+        "stream_type": 0
+      },
+      {
+        "username": "",
+        "password": "",
+        "xvr_ip": "",
+        "channel": 1,
+        "stream_type": 0
+      },
+      {
+        "username": "",
+        "password": "",
+        "xvr_ip": "",
+        "channel": 1,
+        "stream_type": 0
+      },
+      {
+        "username": "",
+        "password": "",
+        "xvr_ip": "",
+        "channel": 1,
+        "stream_type": 0
+      }
+    ]
+  }
